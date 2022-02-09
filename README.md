@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SnehaBatchu10
+- 👋 Hi, I’m @BatchuSneha
 - 👀 I’m interested in Data and Insights
 - 🌱 I’m currently learning Business Analytics
 - 💞️ I’m looking to collaborate on Analytics projects
