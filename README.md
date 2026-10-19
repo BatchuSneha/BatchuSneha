@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BatchuSneha
-- 👀 I’m interested in Data and Insights
-- 🌱 I’m currently learning Business Analytics
+- 🌱 I’m a Senior AI & Data Analyst
 - 💞️ I’m looking to collaborate on Analytics projects
 - 📫 How to reach me sneha.batchu10@gmail.com
 
